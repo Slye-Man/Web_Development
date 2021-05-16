@@ -1,0 +1,22 @@
+body {
+    background-image: url(jon-tyson-rZsZ3u_LGd8-unsplash.jpg);
+    background-size: cover;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+h2 {
+    color: crimson;
+    text-align:center;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+p {
+    color: indianred
+}
